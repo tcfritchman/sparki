@@ -1,2 +1,2 @@
 # sparki
-Various 
+Various programs for the Sparki robot.
